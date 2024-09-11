@@ -44,4 +44,4 @@
 
 ## Контакты  
 Автор: Николай Алленов  
-Профиль GitHub
+Email: AllenovNS@gmail.com
